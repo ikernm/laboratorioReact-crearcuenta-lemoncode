@@ -1,0 +1,38 @@
+.root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-bottom: 5px solid #232c3b;
+}
+
+.header-container h1 {
+  font-size: 2.2rem;
+  font-weight: 300;
+}
+
+.account-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.balance-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.balance-amount {
+  color: var(--primary_color);
+  font-size: 1.8rem;
+  font-weight: 700;
+}
