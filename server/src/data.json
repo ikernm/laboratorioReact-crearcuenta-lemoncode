@@ -23,6 +23,14 @@
       "name": "Ahorro",
       "balance": 8500,
       "lastTransaction": "2019-11-15T08:29:04"
+    },
+    {
+      "iban": "TL75 9907 8002 4579 0012 219",
+      "name": "conjunta",
+      "type": "1",
+      "balance": 0,
+      "lastTransaction": "2026-07-02T15:11:39.377Z",
+      "id": "sn0KHn4"
     }
   ],
   "movements": [
